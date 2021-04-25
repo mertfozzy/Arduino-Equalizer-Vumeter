@@ -2,4 +2,4 @@
 
 # Arduino-Equalizer-Vumeter
 
-n Arduino project, can detect sounds and make animations according to sounds, with leds..
+an Arduino project, can detect sounds and make animations according to sounds, with leds..
